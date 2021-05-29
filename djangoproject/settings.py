@@ -22,6 +22,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'crispy_forms',
+    'taggit',
+    'goals.apps.GoalsConfig',
+    'django_filters',
+    'widget_tweaks',
 ]
 
 MIDDLEWARE = [
