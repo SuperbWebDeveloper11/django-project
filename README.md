@@ -1,5 +1,5 @@
 
-## follow these steps to create professional web apps:
+## this repo help me to create django project faster
 
 
 
